@@ -127,14 +127,6 @@ All models are exposed to Odoo’s JSON-RPC / XML-RPC API so they can receive ex
 
 ---
 
-## 🧠 Evaluation Criteria
-
-- ✅ Clear modular separation between scraping, pushing, and the Odoo module
-- ✅ Functional UI views and API endpoints
-- ✅ Well-documented and maintainable code
-- ✅ Use of Python and Odoo development best practices
-
----
 
 ## 📸 Screenshot
 
