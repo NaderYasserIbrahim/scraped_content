@@ -140,13 +140,20 @@ All models are exposed to Odoo’s JSON-RPC / XML-RPC API so they can receive ex
 
 Here is an example of the UI:
 
+### 🔹 Screenshot 1
 ![App Screenshot](images/Screenshot%202025-05-18%20225117.png)
 
+### 🔹 Screenshot 2
 ![App Screenshot](images/Screenshot%202025-05-18%20225143.png)
 
+### 🔹 Screenshot 3
 ![App Screenshot](images/Screenshot%202025-05-18%20225354.png)
 
+### 🔹 Screenshot 4
 ![Screenshot 3](images/Screenshot%202025-05-18%20225451.png)
+
+### 🔹 Screenshot 5
+![Screenshot 5](images/Screenshot%202025-05-18%20225558.png)
 
 
 ## 📩 Contact
