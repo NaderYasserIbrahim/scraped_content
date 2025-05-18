@@ -18,7 +18,7 @@ This project delivers an integrated solution for scraping web data, pushing it t
   - Views and Menus
   - API exposure for integration
 
-- `data/`: JSON or SQLite files for scraped output.
+- `data/`: CSV  files for scraped output.
 
 ---
 
