@@ -142,6 +142,8 @@ Here is an example of the UI:
 
 ![App Screenshot](images/Screenshot%202025-05-18%20225117.png)
 
+![App Screenshot](images/Screenshot%202025-05-18%20225143.png)
+
 
 ## 📩 Contact
 
